@@ -1,5 +1,5 @@
-###  THE CODE I RIPPED THIS IS FOR PYTHON 2.7  ###
-###  I HOWEVER, USE PYTHON 3.5 -- JUST SAYIN'  ###
+###  the original code that i ripped off was for python 2.7
+###  it is for 3.5, probably
 
 import numpy as np
 from PIL import ImageGrab
